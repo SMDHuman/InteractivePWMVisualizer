@@ -1,4 +1,4 @@
-# InteractivePWMVisualizer
+# Interactive PWM Visualizer
 PWM Signal visualizer with PyGame. You can change the frequency and Duty cycle with two sliders.
 
 Duty value is between 0 to 65535. Because i consider the Raspberry Pi Pico's PWM function to visualize.
